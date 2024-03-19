@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(218, 241, 236);
 }
 *{
     align-items: center;
@@ -15,7 +15,16 @@ body{
 .linkentrar{
     margin-left: 90%;
 }
+.cabecalho{
+    background-color: black;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    height: auto;
+}
 .logo{
+    margin-top: 0px;
     position: relative;
     height: 200px;
 }
@@ -57,14 +66,22 @@ menuitem{
 .dropdown:hover .dropdown-child {
     display:grid;
 }
+.rodape{
+    background-color: black;
+    border-radius: 5px;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    height: auto;
+}
 .imagem{
     position: relative;
+    height: 40px;
     margin: 20px;
-    height: 25px;
 }
 .referencia{
     position: relative;
-    height: 50px;
+    height: 25px;
 }
 .nome{
     font-size: smaller;
