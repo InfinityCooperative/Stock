@@ -2,7 +2,6 @@ body{
     background-color: rgb(218, 241, 236);
 }
 *{
-    align-items: center;
     text-align: center;
     font-family: monospace;
     color: rgb(255, 255, 255);
