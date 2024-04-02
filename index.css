@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(218, 241, 236);
-     text-align: center;
+    background-color: rgb(72, 72, 72);
+    text-align: center;
     color: rgb(255, 255, 255);
 }
 .cabecalho{
@@ -33,7 +33,6 @@ body{
 .imagem{
     position: relative;
     height: 40px;
-    margin: 20px;
 }
 .mensagem{
     height: 100px;
