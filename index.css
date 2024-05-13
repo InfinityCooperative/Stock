@@ -9,7 +9,6 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    border-radius: 5px;
     height: auto;
 }
 .voltar{
@@ -30,7 +29,6 @@ body{
 .rodape{
     margin: 0px -7px -11px -8px;
     background-color: black;
-    border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
