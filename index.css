@@ -16,28 +16,27 @@ body{
 }
 .cabecalho{
     background-color: rgba(255, 255, 255, 0.692);
-    margin: -2% 0% 0% 0%;
+    margin: -5% 0% 0% 0%;
 }
 .voltar{
-    height: 35px;
-    margin:1.5% 0% 0% -95%;
+    height: 30px;
+    margin: 4% 0% 0% -86%;
 }
 .bandeira{
     position: absolute;
-    margin: -42px 0% 0% 76%;
+    margin: -42px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: 8px 0% 0% 76%;
+    margin: 8px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .logo{
-    margin: 40px;
     position: relative;
-    height: 300px;
+    height: 350px;
 }
 .rodape{
     background-color: rgba(255, 255, 255, 0.692);
